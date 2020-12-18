@@ -8,6 +8,6 @@
 - 💬 Ask me about VB6, VB.net, C# and whatever you want
 - ⚡ Fun fact: I'm music addict
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rcolzani&theme=dark&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rcolzani&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcolzani&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcolzani&layout=compact)
