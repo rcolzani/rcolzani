@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on HartSystem Sistemas
 - 🌱 I’m currently learning .Net Core
 - 💬 Ask me about VB6, VB.net, C# and whatever you want
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm music addict
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rcolzani&theme=dark&show_icons=true)
