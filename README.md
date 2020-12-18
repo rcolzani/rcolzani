@@ -10,6 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm music addict
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rcolzani)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rcolzani&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcolzani&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcolzani&layout=compact&theme=dark)
