@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on Havan
 - 🌱 I’m currently learning .Net Core
 - 💬 Ask me about C#, VB.net, VB6 and whatever you want
-- ⚡ Fun fact: I'm music addict
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rcolzani&show_icons=true)
 
